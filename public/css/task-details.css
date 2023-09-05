@@ -1,0 +1,27 @@
+.task-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.task-status .badge {
+    font-size: 16px;
+    padding: 5px 10px;
+}
+
+.task-description {
+    margin-top: 20px;
+}
+
+.task-dates p {
+    margin: 10px 0;
+}
+
+.task-tags {
+    margin: 10px 0;
+}
+
+.task-images img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
